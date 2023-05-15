@@ -1,4 +1,4 @@
 @Library('slib@main')_
 
-echo "Hello"
+log.debug("Starting pipeline")
 startPipeline()
