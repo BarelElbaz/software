@@ -1,3 +1,3 @@
-@Library('golib@main')_
+@Library('slib@main')_
 
 startPipeline()
